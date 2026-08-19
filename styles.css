@@ -152,4 +152,10 @@ section{padding:64px 0;}
   section{padding:48px 0;}
   .process-grid{grid-template-columns:1fr;}
   .proof-imgs{grid-template-columns:1fr;}
+  .container{padding:0 18px;}
+  .voucher{padding:22px 18px;}
+}
+@media (max-width:380px){
+  .container{padding:0 14px;}
+  .btn-lg{padding:15px 26px;font-size:1rem;}
 }
